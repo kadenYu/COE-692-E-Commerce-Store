@@ -1,0 +1,6 @@
+ryerson/ca/searchitem/helper/Item.class
+ryerson/ca/searchitem/helper/ItemXML.class
+ryerson/ca/searchitem/endpoint/ApplicationConfig.class
+ryerson/ca/searchitem/endpoint/SearchResource.class
+ryerson/ca/searchitem/persistence/Item_CRUD.class
+ryerson/ca/searchitem/business/searchItem.class

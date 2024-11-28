@@ -1,0 +1,5 @@
+ryerson/ca/holditem/endpoint/HoldResource.class
+ryerson/ca/holditem/persistence/ItemHold_CRUD.class
+ryerson/ca/holditem/helper/ItemHold.class
+ryerson/ca/holditem/business/HoldBusiness.class
+ryerson/ca/holditem/endpoint/ApplicationConfig.class

@@ -1,0 +1,7 @@
+ryerson/ca/persistence/User_CRUD.class
+ryerson/ca/helper/Item.class
+ryerson/ca/helper/ItemXML.class
+ryerson/ca/business/Business.class
+ryerson/ca/frontend/FrontEnd.class
+ryerson/ca/frontend/Authenticate.class
+ryerson/ca/helper/UserInfo.class
